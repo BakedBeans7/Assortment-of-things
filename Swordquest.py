@@ -1,4 +1,7 @@
 
+#if you use this make sure to credit me.
+#other than that i cant think of anything else to say
+
 health=10
 sword=0
 item=0
